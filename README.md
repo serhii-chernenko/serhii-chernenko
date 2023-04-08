@@ -1,16 +1,20 @@
-### Hi there 👋
+# Follow me<br/>
+- YouTube channel:<br/>
+https://youtu.be/kGjD7LsO7d8
+- Telegram channel:<br/>
+https://t.me/serhii_chernenko
+- Telegram chat:<br/>
+https://t.me/serhii_chernenko_chat
 
-<!--
-**Inevix/Inevix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Support me:<br/>
+- Mono Pile (UAH):<br/>
+https://send.monobank.ua/jar/4ZGhPQqyMh
+- Mono Pile (USD):<br/>
+https://send.monobank.ua/jar/5pKvSvTFYU
+- Mono Pile (EUR):<br/>
+https://send.monobank.ua/jar/7uSXV1eTpX
+- Buymeacoffee:<br/>
+https://www.buymeacoffee.com/serhiichernenko
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Free course about the Front-End of Magento 2 / Adobe Commerce
+https://youtube.com/playlist?list=PLSep1ckXq6QGE1u23jafNnlT-2BOCKxVZ
