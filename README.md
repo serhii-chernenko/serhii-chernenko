@@ -17,4 +17,4 @@ https://send.monobank.ua/jar/7uSXV1eTpX
 https://www.buymeacoffee.com/serhiichernenko
 
 # Free course about the Front-End of Magento 2 / Adobe Commerce
-https://youtube.com/playlist?list=PLSep1ckXq6QGE1u23jafNnlT-2BOCKxVZ
+[![01  Вступ fixed](https://user-images.githubusercontent.com/28815318/230770894-119f79aa-7c93-4f18-9dbd-8fe5b060eb9f.png)](https://youtube.com/playlist?list=PLSep1ckXq6QGE1u23jafNnlT-2BOCKxVZ)
