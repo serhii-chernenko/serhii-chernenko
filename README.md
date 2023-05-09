@@ -30,7 +30,7 @@ https://t.me/serhii_chernenko_chat
       </td>-->
       <td>
         <a href="https://send.monobank.ua/jar/4ZGhPQqyMh" target="_blank">
-          <img src="https://user-images.githubusercontent.com/28815318/237057337-94f44105-8c1e-4229-b5ac-aa21592e1abb.png" alt="QR code"/>
+          <img src="https://user-images.githubusercontent.com/28815318/237060525-09c502cf-6047-49d2-9d8b-4fed497f4aef.png" alt="QR code"/>
         </a>
       </td>
       <!--<td>
