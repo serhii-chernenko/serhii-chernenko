@@ -10,7 +10,7 @@ https://t.me/serhii_chernenko_chat
 <table>
   <thead>
     <tr>
-      <th><strong>BuyMeACoffee</strong></th>
+      <th><strong>Buy me a coffee (USD)</strong></th>
       <!--<th><strong>Monobank (USD)</strong></th>-->
       <th><strong>Monobank (UAH)</strong></th>
       <!--<th><strong>Monobank (EUR)</strong></th>-->
