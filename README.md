@@ -11,9 +11,9 @@ https://t.me/serhii_chernenko_chat
   <thead>
     <tr>
       <th><strong>BuyMeACoffee</strong></th>
-      <th><strong>Monobank (USD)</strong></th>
+      <!--<th><strong>Monobank (USD)</strong></th>-->
       <th><strong>Monobank (UAH)</strong></th>
-      <th><strong>Monobank (EUR)</strong></th>
+      <!--<th><strong>Monobank (EUR)</strong></th>-->
     </tr>
   </thead>
   <tbody>
@@ -23,21 +23,21 @@ https://t.me/serhii_chernenko_chat
           <img src="https://user-images.githubusercontent.com/28815318/237051591-a196cad8-cdf8-4ec2-adc3-124336b62597.png" alt="QR code"/>
         </a>
       </td>
-      <td>
+      <!--<td>
         <a href="https://send.monobank.ua/jar/5pKvSvTFYU" target="_blank">
           <img src="https://user-images.githubusercontent.com/28815318/237056378-7bf7a06a-7a74-4765-bc8d-f746ef0791fa.png" alt="QR code"/>
         </a>
-      </td>
+      </td>-->
       <td>
         <a href="https://send.monobank.ua/jar/4ZGhPQqyMh" target="_blank">
           <img src="https://user-images.githubusercontent.com/28815318/237057337-94f44105-8c1e-4229-b5ac-aa21592e1abb.png" alt="QR code"/>
         </a>
       </td>
-      <td>
+      <!--<td>
         <a href="https://send.monobank.ua/jar/7uSXV1eTpX" target="_blank">
           <img src="https://user-images.githubusercontent.com/28815318/237057402-6953dade-60d6-4a17-985d-97d4688c9724.png" alt="QR code"/>
         </a>
-      </td>
+      </td>-->
     </tr>
     <tr>
       <td colspan="4" align="center"><strong>Click on a QR-code to open the link instead of scanning.</strong></td>
