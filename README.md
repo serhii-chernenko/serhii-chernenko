@@ -1,10 +1,6 @@
 # Follow me<br/>
 - YouTube channel:<br/>
 https://youtube.com/@serhii.chernenko
-- Telegram channel:<br/>
-https://t.me/serhii_chernenko
-- Telegram chat:<br/>
-https://t.me/serhii_chernenko_chat
 
 # Support me:<br/>
 <table>
