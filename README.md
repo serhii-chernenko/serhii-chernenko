@@ -2,20 +2,20 @@
 
 <table class="vertical-align: baseline">
     <thead>
-        <th>Language</th>
+        <th></th>
         <th><img src="https://github.com/serhii-chernenko/serhii-chernenko/assets/28815318/8dc0c6ed-5f62-4cd2-996e-9b76024cd897" width="18" height="18"> Youtube</th>
         <th><img src="https://github.com/serhii-chernenko/serhii-chernenko/assets/28815318/55a46a7f-9cec-4c5f-b816-60922f0c0cbb" width="18" height="18"> Instagram</th>
         <th><img src="https://github.com/serhii-chernenko/serhii-chernenko/assets/28815318/13078198-d170-47a3-8cd9-557b9678beb4" width="18" height="18"> TikTok</th>
     </thead>
     <tbody>
         <tr>
-            <td>Ukrainian</td>
+            <td>Ukrainian 🇺🇦</td>
             <td><a href="https://youtube.com/@serhii.chernenko" target="_blank">@serhii.chernenko</a></td>
             <td><a href="https://www.instagram.com/serhiichernenko.ua" target="_blank">@serhiichernenko.ua</a></td>
             <td><a href="https://www.tiktok.com/@serhiichernenko.ua" target="_blank">@serhiichernenko.ua</a></td>
         </tr>
         <tr>
-            <td>English</td>
+            <td>English 🇺🇸</td>
             <td><a href="https://youtube.com/@chernenko.digital" target="_blank">@chernenko.digital</a></td>
             <td><a href="https://www.instagram.com/chernenko.digital" target="_blank">@chernenko.digital</a></td>
             <td><a href="https://www.tiktok.com/@chernenko.digital" target="_blank">@chernenko.digital</a></td>
