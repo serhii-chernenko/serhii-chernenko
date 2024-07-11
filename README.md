@@ -64,8 +64,14 @@
 </table>
 
 # Free course about the Front-End of Magento 2 / Adobe Commerce
-[![01  Вступ fixed](https://user-images.githubusercontent.com/28815318/230770894-119f79aa-7c93-4f18-9dbd-8fe5b060eb9f.png)](https://youtube.com/playlist?list=PLSep1ckXq6QGE1u23jafNnlT-2BOCKxVZ)
 
-# Про волонтерство, допомогу війську та податки. Моя історія зборів для ЗСУ
-[![Черненко_1](https://github.com/serhii-chernenko/serhii-chernenko/assets/28815318/1ff12e46-51a9-4625-8348-406f8b976efc)](https://dou.ua/forums/topic/49503/)
+<a href="https://youtube.com/playlist?list=PLSep1ckXq6QGE1u23jafNnlT-2BOCKxVZ">
+    <img src="https://user-images.githubusercontent.com/28815318/230770894-119f79aa-7c93-4f18-9dbd-8fe5b060eb9f.png" width="500" />
+</a>
+
+# Про волонтерство, допомогу війську та податки.<br/>Моя історія зборів для ЗСУ
+
+<a href="[https://youtube.com/playlist?list=PLSep1ckXq6QGE1u23jafNnlT-2BOCKxVZ](https://dou.ua/forums/topic/49503/)">
+    <img src="https://github.com/serhii-chernenko/serhii-chernenko/assets/28815318/1ff12e46-51a9-4625-8348-406f8b976efc" width="500" />
+</a>
 
