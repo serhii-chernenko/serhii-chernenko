@@ -37,6 +37,28 @@
     </tbody>
 </table>
 
+# Support me
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Buy me a coffee</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">
+        <a href="https://www.buymeacoffee.com/serhiichernenko" target="_blank" style="display: inline-flex; justify-content: center; width: 100">
+          <img src="https://github.com/user-attachments/assets/7a5939dc-9fb0-4800-a65e-faf4120671b5" alt="QR code" width="200" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="4" align="center"><strong>Click on a QR-code to open the link instead of scanning.</strong></td>
+    </tr>
+  </tbody>
+</table>
+
 # Free course about the Front-End of Magento 2 / Adobe Commerce
 
 <a href="https://youtube.com/playlist?list=PLSep1ckXq6QGE1u23jafNnlT-2BOCKxVZ">
