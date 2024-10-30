@@ -48,8 +48,9 @@
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://www.buymeacoffee.com/serhiichernenko" target="_blank" style="display: inline-flex; justify-content: center; width: 100">
-          <img src="https://github.com/user-attachments/assets/7a5939dc-9fb0-4800-a65e-faf4120671b5" alt="QR code" width="200" />
+        <a href="https://www.buymeacoffee.com/chernenko.courses" target="_blank" style="display: inline-flex; justify-content: center; width: 100">
+          <img src="https://github.com/user-attachments/assets/e2179288-54bd-4891-b414-529f3b60be58" alt="QR code" width="200" />
+
         </a>
       </td>
     </tr>
