@@ -71,7 +71,7 @@
 
 # Про волонтерство, допомогу війську та податки.<br/>Моя історія зборів для ЗСУ
 
-<a href="[https://youtube.com/playlist?list=PLSep1ckXq6QGE1u23jafNnlT-2BOCKxVZ](https://dou.ua/forums/topic/49503/)">
+<a href="https://dou.ua/forums/topic/49503/">
     <img src="https://github.com/serhii-chernenko/serhii-chernenko/assets/28815318/1ff12e46-51a9-4625-8348-406f8b976efc" width="500" />
 </a>
 
