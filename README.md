@@ -46,14 +46,14 @@
 <table>
   <thead>
     <tr>
-      <th><strong>Buy me a coffee</strong></th>
+      <th><strong>Ko-fi</strong></th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <a href="https://www.buymeacoffee.com/chernenko.courses" target="_blank" style="display: inline-flex; justify-content: center; width: 100">
-          <img src="https://github.com/user-attachments/assets/e2179288-54bd-4891-b414-529f3b60be58" alt="QR code" width="200" />
+        <a href="https://ko-fi.com/serhiichernenko" target="_blank" style="display: inline-flex; justify-content: center; width: 100">
+          <img src="https://github.com/user-attachments/assets/4b54783f-e7fe-42b0-9003-b3f2326d69da" alt="QR code" width="200" />
         </a>
       </td>
     </tr>
