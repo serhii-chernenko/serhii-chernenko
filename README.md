@@ -11,17 +11,15 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-chernenko&theme=default&show_icons=true&hide_border=true&layout=compact" alt="serhii-chernenko's GitHub Stats" />
             </td>
         </tr>
-        <!-- <tr>
+        <tr>
             <td colspan="2" align="center">
                 <a href="https://nuxters.nuxt.com/serhii-chernenko" target="_blank">
                     <img src="https://nuxters.nuxt.com/card/serhii-chernenko/og.png?a1" alt="serhii-chernenko's Nuxter profile"/>
                 </a>
             </td>
-        </tr> --!>
+        </tr>
     </tbody>
 </table>
-
-[![serhii-chernenko Nuxter profile](https://nuxters.nuxt.com/card/serhii-chernenko/og.png?a1)](https://nuxters.nuxt.com/serhii-chernenko)
         
 # Links
 
