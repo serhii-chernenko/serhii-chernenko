@@ -14,7 +14,7 @@
         <tr>
             <td colspan="2" align="center">
                 <a href="https://nuxters.nuxt.com/serhii-chernenko" target="_blank">
-                    <img src="https://nuxters.nuxt.com/card/serhii-chernenko/og.png?asdasd" alt="serhii-chernenko's Nuxter profile"/>
+                    <img src="https://nuxters.nuxt.com/card/serhii-chernenko/og.png?a1" alt="serhii-chernenko's Nuxter profile"/>
                 </a>
             </td>
         </tr>
