@@ -54,7 +54,7 @@
                         <tr>
                             <td><a href="https://www.threads.net/@serhiichernenko.ua" target="_blank">@serhiichernenko.ua</a></td>
                             <td><a href="https://t.me/serhii_chernenko" target="_blank">@serhii_chernenko</a></td>
-                            <td><a href="https://x.com/giraffender" target="_blank">@giraffender</a></td>
+                            <td><a href="https://x.com/serhiichernenko" target="_blank">@serhiichernenko</a></td>
                         </tr>
                         <!--
                         <tr>
