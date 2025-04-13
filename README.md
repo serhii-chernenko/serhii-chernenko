@@ -5,10 +5,15 @@
     <tbody>
         <tr>            
             <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=serhii-chernenko&theme=default&show_icons=true&hide_border=true&count_private=true" alt="serhii-chernenko's GitHub Stats" />
+                <img src="https://github-readme-stats.vercel.app/api?username=serhii-chernenko&show_icons=true&hide_border=true&count_private=true" alt="serhii-chernenko's GitHub Stats" />
             </td>
             <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-chernenko&theme=default&show_icons=true&hide_border=true&layout=compact" alt="serhii-chernenko's GitHub Stats" />
+                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-chernenko&show_icons=true&hide_border=true&layout=compact" alt="serhii-chernenko's GitHub Top Languages" />
+            </td>
+        </tr>
+        <tr>    
+            <td colspan="2" align="center">
+                <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhii-chernenko&hide_border=true" alt="serhii-chernenko's GitHub Streak" width="100%" />
             </td>
         </tr>
         <tr>
