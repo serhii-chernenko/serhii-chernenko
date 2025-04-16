@@ -13,7 +13,7 @@
         </tr>
         <tr>    
             <td colspan="2" align="center">
-                <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhii-chernenko&hide_border=true" alt="serhii-chernenko's GitHub Streak" width="100%" />
+                <img src="https://streak-stats.demolab.com?user=serhii-chernenko&hide_border=true" alt="serhii-chernenko's GitHub Streak" width="100%" />
             </td>
         </tr>
         <tr>
