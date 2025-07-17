@@ -11,11 +11,11 @@
                 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-chernenko&show_icons=true&hide_border=true&layout=compact" alt="serhii-chernenko's GitHub Top Languages" />
             </td>
         </tr>
-        <tr>    
+<!--         <tr>    
             <td colspan="2" align="center">
                 <img src="https://streak-stats.demolab.com?user=serhii-chernenko&hide_border=true" alt="serhii-chernenko's GitHub Streak" width="100%" />
             </td>
-        </tr>
+        </tr> -->
         <tr>
             <td colspan="2" align="center">
                 <a href="https://nuxters.nuxt.com/serhii-chernenko" target="_blank">
