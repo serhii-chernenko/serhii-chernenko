@@ -93,6 +93,49 @@
     </tbody>
 </table>
 
+# Skills
+
+| Area | Skills |
+|----------|-------|
+| Languages | <img src="https://skillicons.dev/icons?theme=light&i=ts,js,php" /> |
+| Frontend | <img src="https://skillicons.dev/icons?theme=light&i=html,css,tailwind,less,sass" /> |
+| Vue.js ecosystem | <img src="https://skillicons.dev/icons?theme=light&i=vue,nuxtjs,pinia,vitest,vite" /> |
+| React.js ecosystem | <img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,remix" /> |
+| DBs | <img src="https://skillicons.dev/icons?theme=light&i=sqlite,mongodb,mysql" /> |
+| CI/CD | <img src="https://skillicons.dev/icons?theme=light&i=nginx,ansible,kubernetes,docker,cloudflare,workers,vercel,aws" /> |
+
+# My open source projects
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://www.besidka.com">
+                    <img src="https://github.com/user-attachments/assets/98fa3227-7ace-4751-93e5-0435db6a4032" />
+                </a>
+            </td>
+            <td>
+                <p>
+                    <a href="https://www.besidka.com">
+                        <strong>Besidka</strong>
+                    </a>
+                </p>
+                <p>
+                    Open-source AI chat application.<br>Bring your API key and start chatting with available LLMs!
+                </p>
+                <p>
+                    Repository: <a href="https://github.com/besidka/besidka">github.com/besidka/besidka</a>
+                </p>
+                <p>
+                    <a href="https://github.com/besidka/besidka">
+                        <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/besidka/besidka?style=for-the-badge&labelColor=%23f8c4e4&color=%23e40d7b">
+                    </a>
+                </p>
+            </td>
+        </tr>
+    </tbody>
+</table>
+
 # Materials
 
 <table class="vertical-align: baseline">
