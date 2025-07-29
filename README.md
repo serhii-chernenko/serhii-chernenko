@@ -40,14 +40,20 @@
             <td>
                 <table class="vertical-align: baseline">
                     <tbody>
-                        <tr>            
-                            <td><img src="https://github.com/serhii-chernenko/serhii-chernenko/assets/28815318/8dc0c6ed-5f62-4cd2-996e-9b76024cd897" width="18" height="18"> Youtube</td>
+                        <tr align="center">            
+                            <td colspan="3"><img src="https://github.com/serhii-chernenko/serhii-chernenko/assets/28815318/8dc0c6ed-5f62-4cd2-996e-9b76024cd897" width="18" height="18"> Youtube</td>
+                        </tr>
+                        <tr align="center">
+                            <td colspan="3"><a href="https://youtube.com/@serhii.chernenko" target="_blank">@serhii.chernenko</a></td>
+                        </tr>
+                        <tr>
+                            <td><img src="https://github.com/user-attachments/assets/d611eff9-401c-44da-80f2-c6f4732df9ee" width="18" height="18"> Linkedin</td>
                             <td><img src="https://github.com/serhii-chernenko/serhii-chernenko/assets/28815318/55a46a7f-9cec-4c5f-b816-60922f0c0cbb" width="18" height="18"> Instagram</td>
                             <td><img src="https://github.com/serhii-chernenko/serhii-chernenko/assets/28815318/13078198-d170-47a3-8cd9-557b9678beb4" width="18" height="18"> TikTok</td>
                         </tr>
                         <tr>
                             <!--<td>Ukrainian 🇺🇦</td>-->
-                            <td><a href="https://youtube.com/@serhii.chernenko" target="_blank">@serhii.chernenko</a></td>
+                            <td><a href="https://www.linkedin.com/in/serhiichernenko/" target="_blank">serhiichernenko</a></td>
                             <td><a href="https://www.instagram.com/serhiichernenko.ua" target="_blank">@serhiichernenko.ua</a></td>
                             <td><a href="https://www.tiktok.com/@serhiichernenko.ua" target="_blank">@serhiichernenko.ua</a></td>
                         </tr>
