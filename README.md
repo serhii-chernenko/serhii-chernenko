@@ -141,11 +141,22 @@
 <table class="vertical-align: baseline">
     <thead>
         <tr>
-            <th>Free course about the Front-End of<br/>Magento 2 / Adobe Commerce</td>
-            <th>Про волонтерство, допомогу війську та податки.<br/>Моя історія зборів для ЗСУ</td>
+            <th colspan="2" align="center"><strong>Click on images</strong></th>
         </tr>
     </thead>
     <tbody>
+        <tr align="center">
+            <td>
+                <strong>
+                    Free course about the Front-End of<br/>Magento 2 / Adobe Commerce
+                </strong>
+            </td>
+            <td>
+                <strong>
+                    Про волонтерство, допомогу війську та податки.<br/>Моя історія зборів для ЗСУ
+                </strong>
+            </td>
+        </tr>
         <tr>
             <td>
                 <a href="https://youtube.com/playlist?list=PLSep1ckXq6QGE1u23jafNnlT-2BOCKxVZ">
@@ -158,8 +169,29 @@
                 </a>
             </td>
         </tr>
+        <tr align="center">
+            <td>
+                <strong>
+                    Nuxt 3 Layers — The Key to Smarter Architecture (DDD) [Vaimo DevDays 2024 Meetup]
+                </strong>
+            </td>
+            <td>
+                <strong>
+                    The Commerce DevCast #4 - Frontend in eCommerce
+                </strong>
+            </td>
+        </tr>
         <tr>
-          <td colspan="2" align="center"><strong>Click on images</strong></td>
+            <td>
+                <a href="https://www.youtube.com/watch?v=I2zyFp1OtDA">
+                    <img src="https://github.com/user-attachments/assets/0730a222-52f2-4a21-ba37-a373dae94148" width="500" />
+                </a>
+            </td>
+            <td>
+                <a href="https://youtu.be/b49tfKNCISU">
+                    <img src="https://github.com/user-attachments/assets/7b7e35e0-9699-4174-a03b-de3e7bae77a3" width="500" />
+                </a>
+            </td>
         </tr>
     </tbody>
 </table>
