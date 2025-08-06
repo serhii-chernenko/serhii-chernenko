@@ -145,54 +145,75 @@
 # Certificates
 
 <table>
-    <tr align="center">
-        <td width="50%">
-            <strong>Certified Senior Nuxt Developer</strong>
-        </td>
-        <td width="50%">
-            <strong>Certified Middle Nuxt Developer</strong>
-        </td>
-    </tr>
-    <tr align="center">
-        <td width="50%">
-            <img width="841" height="595" alt="nuxt-senior" src="https://github.com/user-attachments/assets/bf25c6ff-6ecf-4a43-9a8b-3c165fc8d5ba" />
-        </td>
-        <td width="50%">
-            <img width="2339" height="1654" alt="nuxt-mid" src="https://github.com/user-attachments/assets/7cc6dd66-49d0-4164-b55a-4412ff0f7b91" />
-        </td>
-    </tr>
-    <tr align="center">
-        <td width="50%">
-            <strong>Certified Senior Vue.js Developer</strong>
-        </td>
-        <td width="50%">
-            <strong>Certified Middle Vue.js Developer</strong>
-        </td>
-    </tr>
-    <tr align="center">
-        <td width="50%">
-            <img width="2339" height="1654" alt="vue-2" src="https://github.com/user-attachments/assets/07dc9580-4941-43bd-a884-6e7c34238c62" />
-        </td>
-        <td width="50%">
-            <img width="2339" height="1654" alt="vue-2" src="https://github.com/user-attachments/assets/8fdf9d71-c23b-4e59-a0f5-e913bdb98c68" />
-        </td>
-    </tr>
-    <tr align="center">
-        <td width="50%">
-            <strong>Adobe Certified Expert<br/>Adobe Commerce Front End Developer</strong>
-        </td>
-        <td width="50%">
-            <strong>Certified Shopify Developer</strong>
-        </td>
-    </tr>
-    <tr align="center">
-        <td width="50%">
-            <img width="3300" height="2550" alt="js_adobe_2023_opt" src="https://github.com/user-attachments/assets/e8339fc8-e090-4e55-825c-3c448727e35d" />
-        </td>
-        <td width="50%">
-            <img width="600" height="600" alt="shopify development fundamentals badge" src="https://github.com/user-attachments/assets/2f5282eb-8b1a-4fe9-b9ae-53729d3c6132" />
-        </td>
-    </tr>
+    <thead>
+        <tr align="center">
+            <th colspan="2" align="center">
+                <strong>Click on certificates</strong>
+            </th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr align="center">
+            <td width="50%">
+                <strong>Certified Senior Nuxt Developer</strong>
+            </td>
+            <td width="50%">
+                <strong>Certified Middle Nuxt Developer</strong>
+            </td>
+        </tr>
+        <tr align="center">
+            <td width="50%">
+                <a href="https://api.certificates.dev/certificates/9f885b10-1ff0-47fe-bf0a-01c4a6b391ed/download?signature=58232dae8d0f09d93fb728c9d947e382976a735daaf7cdf874807fdc0383ee49">
+                    <img width="841" height="595" alt="nuxt-senior" src="https://github.com/user-attachments/assets/bf25c6ff-6ecf-4a43-9a8b-3c165fc8d5ba" />
+                </a>
+            </td>
+            <td width="50%">
+                <a href="https://api.certificates.dev/certificates/9dc25203-20f6-4235-8b84-a8cb8c885d77/download?signature=03c13319da37530380cd63d89f6e8d3381b4b3ede5efd9bcaeecbd6ab474b7c3">
+                    <img width="2339" height="1654" alt="nuxt-mid" src="https://github.com/user-attachments/assets/7cc6dd66-49d0-4164-b55a-4412ff0f7b91" />
+                </a>
+            </td>
+        </tr>
+        <tr align="center">
+            <td width="50%">
+                <strong>Certified Senior Vue.js Developer</strong>
+            </td>
+            <td width="50%">
+                <strong>Certified Middle Vue.js Developer</strong>
+            </td>
+        </tr>
+        <tr align="center">
+            <td width="50%">
+                <a href="https://api.certificates.dev/certificates/9d30711b-9880-4065-8ecc-3b8243e7a38f/download?signature=2644a9f878d22a73be43794aff5407b4bfecc214873885fba73977f8e9cc82d6">
+                    <img width="2339" height="1654" alt="vue-2" src="https://github.com/user-attachments/assets/07dc9580-4941-43bd-a884-6e7c34238c62" />
+                </a>
+            </td>
+            <td width="50%">
+                <a href="https://api.certificates.dev/certificates/9b1b8716-3025-4ca8-a0e2-abd9efcf12e5/download?signature=0ded6b50e2cffa8b3f9593bb1c3230a0716ffff2753c8a34dc55b27000b0d376">
+                    <img width="2339" height="1654" alt="vue-2" src="https://github.com/user-attachments/assets/8fdf9d71-c23b-4e59-a0f5-e913bdb98c68" />
+                </a>
+            </td>
+        </tr>
+        <tr align="center">
+            <td width="50%">
+                <strong>Adobe Certified Expert<br/>Adobe Commerce Front End Developer</strong>
+            </td>
+            <td width="50%">
+                <strong>Certified Shopify Developer</strong>
+            </td>
+        </tr>
+        <tr align="center">
+            <td width="50%">
+                <a href="https://certification.adobe.com/credential/verify/693978d0-2901-4a97-84b3-805801cac8a7">
+                    <img width="3300" height="2550" alt="js_adobe_2023_opt" src="https://github.com/user-attachments/assets/e8339fc8-e090-4e55-825c-3c448727e35d" />
+                </a>
+            </td>
+            <td width="50%">
+                <a href="https://www.credly.com/badges/1e2f56ac-aa94-4239-bf6b-8d51efbb6749/public_url">
+                    <img width="600" height="600" alt="shopify development fundamentals badge" src="https://github.com/user-attachments/assets/2f5282eb-8b1a-4fe9-b9ae-53729d3c6132" />
+                </a>
+            </td>
+        </tr>
+    </tbody>
 </table>
 
 # Materials
