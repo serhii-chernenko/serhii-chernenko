@@ -99,17 +99,6 @@
     </tbody>
 </table>
 
-# Skills
-
-| Area | Skills |
-|----------|-------|
-| Languages | <img src="https://skillicons.dev/icons?theme=light&i=ts,js,php" /> |
-| Frontend | <img src="https://skillicons.dev/icons?theme=light&i=html,css,tailwind,less,sass" /> |
-| Vue.js ecosystem | <img src="https://skillicons.dev/icons?theme=light&i=vue,nuxtjs,pinia,vitest,vite" /> |
-| React.js ecosystem | <img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,remix" /> |
-| DBs | <img src="https://skillicons.dev/icons?theme=light&i=sqlite,mongodb,mysql" /> |
-| CI/CD | <img src="https://skillicons.dev/icons?theme=light&i=nginx,ansible,kubernetes,docker,cloudflare,workers,vercel,aws" /> |
-
 # My open source projects
 
 <table>
@@ -140,6 +129,70 @@
             </td>
         </tr>
     </tbody>
+</table>
+
+# Skills
+
+| Area | Skills |
+|----------|-------|
+| Languages | <img src="https://skillicons.dev/icons?theme=light&i=ts,js,php" /> |
+| Frontend | <img src="https://skillicons.dev/icons?theme=light&i=html,css,tailwind,less,sass" /> |
+| Vue.js ecosystem | <img src="https://skillicons.dev/icons?theme=light&i=vue,nuxtjs,pinia,vitest,vite" /> |
+| React.js ecosystem | <img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,remix" /> |
+| DBs | <img src="https://skillicons.dev/icons?theme=light&i=sqlite,mongodb,mysql" /> |
+| CI/CD | <img src="https://skillicons.dev/icons?theme=light&i=nginx,ansible,kubernetes,docker,cloudflare,workers,vercel,aws" /> |
+
+# Certificates
+
+<table>
+    <tr align="center">
+        <td width="50%">
+            <strong>Certified Senior Nuxt Developer</strong>
+        </td>
+        <td width="50%">
+            <strong>Certified Middle Nuxt Developer</strong>
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="50%">
+            <img width="841" height="595" alt="nuxt-senior" src="https://github.com/user-attachments/assets/bf25c6ff-6ecf-4a43-9a8b-3c165fc8d5ba" />
+        </td>
+        <td width="50%">
+            <img width="2339" height="1654" alt="nuxt-mid" src="https://github.com/user-attachments/assets/7cc6dd66-49d0-4164-b55a-4412ff0f7b91" />
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="50%">
+            <strong>Certified Senior Vue.js Developer</strong>
+        </td>
+        <td width="50%">
+            <strong>Certified Middle Vue.js Developer</strong>
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="50%">
+            <img width="2339" height="1654" alt="vue-2" src="https://github.com/user-attachments/assets/07dc9580-4941-43bd-a884-6e7c34238c62" />
+        </td>
+        <td width="50%">
+            <img width="2339" height="1654" alt="vue-2" src="https://github.com/user-attachments/assets/8fdf9d71-c23b-4e59-a0f5-e913bdb98c68" />
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="50%">
+            <strong>Adobe Certified Expert<br/>Adobe Commerce Front End Developer</strong>
+        </td>
+        <td width="50%">
+            <strong>Certified Shopify Developer</strong>
+        </td>
+    </tr>
+    <tr align="center">
+        <td width="50%">
+            <img width="3300" height="2550" alt="js_adobe_2023_opt" src="https://github.com/user-attachments/assets/e8339fc8-e090-4e55-825c-3c448727e35d" />
+        </td>
+        <td width="50%">
+            <img width="600" height="600" alt="shopify development fundamentals badge" src="https://github.com/user-attachments/assets/2f5282eb-8b1a-4fe9-b9ae-53729d3c6132" />
+        </td>
+    </tr>
 </table>
 
 # Materials
