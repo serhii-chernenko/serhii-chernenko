@@ -1,31 +1,3 @@
-// # Stats
-
-<!-- https://github-stats.omsimos.com/ -->
-<!-- <table class="vertical-align: baseline">
-    <tbody>
-        <tr>            
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api?username=serhii-chernenko&show_icons=true&hide_border=true&count_private=true" alt="serhii-chernenko's GitHub Stats" />
-            </td>
-            <td>
-                <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhii-chernenko&show_icons=true&hide_border=true&layout=compact" alt="serhii-chernenko's GitHub Top Languages" />
-            </td>
-        </tr>
-<!--         <tr>    
-            <td colspan="2" align="center">
-                <img src="https://streak-stats.demolab.com?user=serhii-chernenko&hide_border=true" alt="serhii-chernenko's GitHub Streak" width="100%" />
-            </td>
-        </tr> -->
-        <tr>
-            <td colspan="2" align="center">
-                <a href="https://nuxters.nuxt.com/serhii-chernenko" target="_blank">
-                    <img src="https://nuxters.nuxt.com/card/serhii-chernenko/og.png?a1" alt="serhii-chernenko's Nuxter profile"/>
-                </a>
-            </td>
-        </tr>
-    </tbody>
-</table> -->
-        
 # Links
 
 <table class="vertical-align: baseline">
@@ -130,18 +102,6 @@
         </tr>
     </tbody>
 </table>
-
-// # Skills
-
-<!-- | Area | Skills |
-|----------|-------|
-| Languages | <img src="https://skillicons.dev/icons?theme=light&i=ts,js,php" /> |
-| Frontend | <img src="https://skillicons.dev/icons?theme=light&i=html,css,tailwind,less,sass" /> |
-| Vue.js ecosystem | <img src="https://skillicons.dev/icons?theme=light&i=vue,nuxtjs,pinia,vitest,vite" /> |
-| React.js ecosystem | <img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,remix" /> |
-| DBs | <img src="https://skillicons.dev/icons?theme=light&i=sqlite,mongodb,mysql" /> |
-| CI/CD | <img src="https://skillicons.dev/icons?theme=light&i=nginx,ansible,kubernetes,docker,cloudflare,workers,vercel,aws" /> |
--->
 
 # Certificates
 
