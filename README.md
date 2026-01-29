@@ -1,7 +1,7 @@
-# Stats
+// # Stats
 
 <!-- https://github-stats.omsimos.com/ -->
-<table class="vertical-align: baseline">
+<!-- <table class="vertical-align: baseline">
     <tbody>
         <tr>            
             <td>
@@ -24,7 +24,7 @@
             </td>
         </tr>
     </tbody>
-</table>
+</table> -->
         
 # Links
 
@@ -131,9 +131,9 @@
     </tbody>
 </table>
 
-# Skills
+// # Skills
 
-| Area | Skills |
+<!-- | Area | Skills |
 |----------|-------|
 | Languages | <img src="https://skillicons.dev/icons?theme=light&i=ts,js,php" /> |
 | Frontend | <img src="https://skillicons.dev/icons?theme=light&i=html,css,tailwind,less,sass" /> |
@@ -141,6 +141,7 @@
 | React.js ecosystem | <img src="https://skillicons.dev/icons?theme=light&i=react,nextjs,remix" /> |
 | DBs | <img src="https://skillicons.dev/icons?theme=light&i=sqlite,mongodb,mysql" /> |
 | CI/CD | <img src="https://skillicons.dev/icons?theme=light&i=nginx,ansible,kubernetes,docker,cloudflare,workers,vercel,aws" /> |
+-->
 
 # Certificates
 
