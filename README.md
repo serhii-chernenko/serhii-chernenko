@@ -1,3 +1,7 @@
+# 👨‍💻 Recent Activity
+
+<!--START_SECTION:activity-->
+
 # Links
 
 <table class="vertical-align: baseline">
