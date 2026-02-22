@@ -1,6 +1,12 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#6080](https://github.com/openai/codex/issues/6080#issuecomment-3938756756) in [openai/codex](https://github.com/openai/codex)
+2. 🔒 Closed issue [#27414](https://github.com/anthropics/claude-code/issues/27414) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+3. ℹ️ Labeled issue [#27414](https://github.com/anthropics/claude-code/issues/27414) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+4. ❗ Opened issue [#27414](https://github.com/anthropics/claude-code/issues/27414) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+5. ℹ️ Labeled issue [#12451](https://github.com/openai/codex/issues/12451) in [openai/codex](https://github.com/openai/codex)
+<!--END_SECTION:activity-->
 
 # Links
 
