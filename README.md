@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#161](https://github.com/besidka/besidka/pull/161) in [besidka/besidka](https://github.com/besidka/besidka)
-2. 🔒 Closed issue [#160](https://github.com/besidka/besidka/issues/160) in [besidka/besidka](https://github.com/besidka/besidka)
-3. ℹ️ Assigned PR [#161](https://github.com/besidka/besidka/pull/161) in [besidka/besidka](https://github.com/besidka/besidka)
-4. 💪 Opened PR [#161](https://github.com/besidka/besidka/pull/161) in [besidka/besidka](https://github.com/besidka/besidka)
-5. ❌ Closed PR [#1](https://github.com/serhii-chernenko/falling-hall-643e/pull/1) in [serhii-chernenko/falling-hall-643e](https://github.com/serhii-chernenko/falling-hall-643e)
+1. ℹ️ Labeled issue [#162](https://github.com/besidka/besidka/issues/162) in [besidka/besidka](https://github.com/besidka/besidka)
+2. ℹ️ Assigned issue [#162](https://github.com/besidka/besidka/issues/162) in [besidka/besidka](https://github.com/besidka/besidka)
+3. ❗ Opened issue [#162](https://github.com/besidka/besidka/issues/162) in [besidka/besidka](https://github.com/besidka/besidka)
+4. 🎉 Merged PR [#161](https://github.com/besidka/besidka/pull/161) in [besidka/besidka](https://github.com/besidka/besidka)
+5. 🔒 Closed issue [#160](https://github.com/besidka/besidka/issues/160) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
