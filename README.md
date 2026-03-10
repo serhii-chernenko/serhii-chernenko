@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11898](https://github.com/languagetool-org/languagetool/issues/11898) in [languagetool-org/languagetool](https://github.com/languagetool-org/languagetool)
-2. ℹ️ Assigned PR [#174](https://github.com/besidka/besidka/pull/174) in [besidka/besidka](https://github.com/besidka/besidka)
-3. ℹ️ Assigned PR [#173](https://github.com/besidka/besidka/pull/173) in [besidka/besidka](https://github.com/besidka/besidka)
-4. ℹ️ Assigned PR [#172](https://github.com/besidka/besidka/pull/172) in [besidka/besidka](https://github.com/besidka/besidka)
-5. ℹ️ Assigned PR [#171](https://github.com/besidka/besidka/pull/171) in [besidka/besidka](https://github.com/besidka/besidka)
+1. 💪 Opened PR [#176](https://github.com/besidka/besidka/pull/176) in [besidka/besidka](https://github.com/besidka/besidka)
+2. 🎉 Merged PR [#175](https://github.com/besidka/besidka/pull/175) in [besidka/besidka](https://github.com/besidka/besidka)
+3. ❌ Closed PR [#174](https://github.com/besidka/besidka/pull/174) in [besidka/besidka](https://github.com/besidka/besidka)
+4. 🗣 Commented on [#174](https://github.com/besidka/besidka/pull/174#issuecomment-4034041242) in [besidka/besidka](https://github.com/besidka/besidka)
+5. 🗣 Commented on [#173](https://github.com/besidka/besidka/pull/173#issuecomment-4034040457) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
