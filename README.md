@@ -1,10 +1,10 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#182](https://github.com/besidka/besidka/pull/182) in [besidka/besidka](https://github.com/besidka/besidka)
-2. 🔒 Closed issue [#181](https://github.com/besidka/besidka/issues/181) in [besidka/besidka](https://github.com/besidka/besidka)
-3. ℹ️ Labeled PR [#182](https://github.com/besidka/besidka/pull/182) in [besidka/besidka](https://github.com/besidka/besidka)
-4. ℹ️ Labeled PR [#182](https://github.com/besidka/besidka/pull/182) in [besidka/besidka](https://github.com/besidka/besidka)
+1. ℹ️ Assigned PR [#184](https://github.com/besidka/besidka/pull/184) in [besidka/besidka](https://github.com/besidka/besidka)
+2. ℹ️ Assigned PR [#183](https://github.com/besidka/besidka/pull/183) in [besidka/besidka](https://github.com/besidka/besidka)
+3. 🎉 Merged PR [#182](https://github.com/besidka/besidka/pull/182) in [besidka/besidka](https://github.com/besidka/besidka)
+4. 🔒 Closed issue [#181](https://github.com/besidka/besidka/issues/181) in [besidka/besidka](https://github.com/besidka/besidka)
 5. ℹ️ Labeled PR [#182](https://github.com/besidka/besidka/pull/182) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
