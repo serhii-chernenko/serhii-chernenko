@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#185](https://github.com/besidka/besidka/pull/185) in [besidka/besidka](https://github.com/besidka/besidka)
-2. 🎉 Merged PR [#1](https://github.com/serhii-chernenko/nextjs-foundations/pull/1) in [serhii-chernenko/nextjs-foundations](https://github.com/serhii-chernenko/nextjs-foundations)
-3. ℹ️ Labeled PR [#1](https://github.com/serhii-chernenko/nextjs-foundations/pull/1) in [serhii-chernenko/nextjs-foundations](https://github.com/serhii-chernenko/nextjs-foundations)
-4. ℹ️ Assigned PR [#1](https://github.com/serhii-chernenko/nextjs-foundations/pull/1) in [serhii-chernenko/nextjs-foundations](https://github.com/serhii-chernenko/nextjs-foundations)
-5. 💪 Opened PR [#1](https://github.com/serhii-chernenko/nextjs-foundations/pull/1) in [serhii-chernenko/nextjs-foundations](https://github.com/serhii-chernenko/nextjs-foundations)
+1. ℹ️ Labeled issue [#186](https://github.com/besidka/besidka/issues/186) in [besidka/besidka](https://github.com/besidka/besidka)
+2. ❗ Opened issue [#186](https://github.com/besidka/besidka/issues/186) in [besidka/besidka](https://github.com/besidka/besidka)
+3. ℹ️ Assigned issue [#186](https://github.com/besidka/besidka/issues/186) in [besidka/besidka](https://github.com/besidka/besidka)
+4. ℹ️ Assigned PR [#185](https://github.com/besidka/besidka/pull/185) in [besidka/besidka](https://github.com/besidka/besidka)
+5. 🎉 Merged PR [#1](https://github.com/serhii-chernenko/nextjs-foundations/pull/1) in [serhii-chernenko/nextjs-foundations](https://github.com/serhii-chernenko/nextjs-foundations)
 <!--END_SECTION:activity-->
 
 # Links
