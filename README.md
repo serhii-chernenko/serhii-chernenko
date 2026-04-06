@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#205](https://github.com/besidka/besidka/pull/205) in [besidka/besidka](https://github.com/besidka/besidka)
-2. 💪 Opened PR [#205](https://github.com/besidka/besidka/pull/205) in [besidka/besidka](https://github.com/besidka/besidka)
-3. 🎉 Merged PR [#204](https://github.com/besidka/besidka/pull/204) in [besidka/besidka](https://github.com/besidka/besidka)
-4. ℹ️ Labeled PR [#204](https://github.com/besidka/besidka/pull/204) in [besidka/besidka](https://github.com/besidka/besidka)
-5. ℹ️ Assigned PR [#204](https://github.com/besidka/besidka/pull/204) in [besidka/besidka](https://github.com/besidka/besidka)
+1. 🗣 Commented on [#199](https://github.com/besidka/besidka/issues/199#issuecomment-4192988596) in [besidka/besidka](https://github.com/besidka/besidka)
+2. 🔒 Closed issue [#199](https://github.com/besidka/besidka/issues/199) in [besidka/besidka](https://github.com/besidka/besidka)
+3. 🔒 Closed issue [#198](https://github.com/besidka/besidka/issues/198) in [besidka/besidka](https://github.com/besidka/besidka)
+4. 🗣 Commented on [#198](https://github.com/besidka/besidka/issues/198#issuecomment-4192986883) in [besidka/besidka](https://github.com/besidka/besidka)
+5. 🎉 Merged PR [#205](https://github.com/besidka/besidka/pull/205) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
