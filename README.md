@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#5](https://github.com/serhii-chernenko/vercel-daily-news/pull/5) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
-2. 💪 Opened PR [#5](https://github.com/serhii-chernenko/vercel-daily-news/pull/5) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
-3. 🎉 Merged PR [#209](https://github.com/besidka/besidka/pull/209) in [besidka/besidka](https://github.com/besidka/besidka)
-4. ℹ️ Assigned PR [#209](https://github.com/besidka/besidka/pull/209) in [besidka/besidka](https://github.com/besidka/besidka)
-5. 💪 Opened PR [#209](https://github.com/besidka/besidka/pull/209) in [besidka/besidka](https://github.com/besidka/besidka)
+1. ℹ️ Labeled PR [#5](https://github.com/serhii-chernenko/vercel-daily-news/pull/5) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
+2. 🎉 Merged PR [#5](https://github.com/serhii-chernenko/vercel-daily-news/pull/5) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
+3. ℹ️ Assigned PR [#5](https://github.com/serhii-chernenko/vercel-daily-news/pull/5) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
+4. 💪 Opened PR [#5](https://github.com/serhii-chernenko/vercel-daily-news/pull/5) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
+5. 🎉 Merged PR [#209](https://github.com/besidka/besidka/pull/209) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
