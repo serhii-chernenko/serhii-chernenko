@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/serhii-chernenko/vercel-daily-news/pull/8) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
-2. ℹ️ Assigned PR [#8](https://github.com/serhii-chernenko/vercel-daily-news/pull/8) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
-3. 💪 Opened PR [#8](https://github.com/serhii-chernenko/vercel-daily-news/pull/8) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
-4. 🎉 Merged PR [#7](https://github.com/serhii-chernenko/vercel-daily-news/pull/7) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
-5. ℹ️ Assigned PR [#7](https://github.com/serhii-chernenko/vercel-daily-news/pull/7) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
+1. ℹ️ Assigned PR [#9](https://github.com/serhii-chernenko/vercel-daily-news/pull/9) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
+2. 💪 Opened PR [#9](https://github.com/serhii-chernenko/vercel-daily-news/pull/9) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
+3. 🎉 Merged PR [#8](https://github.com/serhii-chernenko/vercel-daily-news/pull/8) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
+4. ℹ️ Assigned PR [#8](https://github.com/serhii-chernenko/vercel-daily-news/pull/8) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
+5. 💪 Opened PR [#8](https://github.com/serhii-chernenko/vercel-daily-news/pull/8) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
 <!--END_SECTION:activity-->
 
 # Links
