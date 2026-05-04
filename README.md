@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#218](https://github.com/besidka/besidka/pull/218) in [besidka/besidka](https://github.com/besidka/besidka)
-2. ℹ️ Assigned PR [#217](https://github.com/besidka/besidka/pull/217) in [besidka/besidka](https://github.com/besidka/besidka)
-3. 🎉 Merged PR [#12](https://github.com/serhii-chernenko/vercel-daily-news/pull/12) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
-4. ℹ️ Assigned PR [#12](https://github.com/serhii-chernenko/vercel-daily-news/pull/12) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
-5. 💪 Opened PR [#12](https://github.com/serhii-chernenko/vercel-daily-news/pull/12) in [serhii-chernenko/vercel-daily-news](https://github.com/serhii-chernenko/vercel-daily-news)
+1. 🔒 Closed issue [#219](https://github.com/besidka/besidka/issues/219) in [besidka/besidka](https://github.com/besidka/besidka)
+2. 🎉 Merged PR [#220](https://github.com/besidka/besidka/pull/220) in [besidka/besidka](https://github.com/besidka/besidka)
+3. ℹ️ Labeled issue [#221](https://github.com/besidka/besidka/issues/221) in [besidka/besidka](https://github.com/besidka/besidka)
+4. ❗ Opened issue [#221](https://github.com/besidka/besidka/issues/221) in [besidka/besidka](https://github.com/besidka/besidka)
+5. ℹ️ Assigned issue [#221](https://github.com/besidka/besidka/issues/221) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
