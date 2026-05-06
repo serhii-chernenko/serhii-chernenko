@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#321](https://github.com/HugoRCD/evlog/issues/321) in [HugoRCD/evlog](https://github.com/HugoRCD/evlog)
-2. ❗ Opened issue [#321](https://github.com/HugoRCD/evlog/issues/321) in [HugoRCD/evlog](https://github.com/HugoRCD/evlog)
-3. 🗣 Commented on [#218](https://github.com/besidka/besidka/pull/218#issuecomment-4374881243) in [besidka/besidka](https://github.com/besidka/besidka)
-4. ❌ Closed PR [#218](https://github.com/besidka/besidka/pull/218) in [besidka/besidka](https://github.com/besidka/besidka)
-5. 🗣 Commented on [#217](https://github.com/besidka/besidka/pull/217#issuecomment-4374878900) in [besidka/besidka](https://github.com/besidka/besidka)
+1. ℹ️ Assigned PR [#225](https://github.com/besidka/besidka/pull/225) in [besidka/besidka](https://github.com/besidka/besidka)
+2. 💪 Opened PR [#225](https://github.com/besidka/besidka/pull/225) in [besidka/besidka](https://github.com/besidka/besidka)
+3. ℹ️ Assigned issue [#224](https://github.com/besidka/besidka/issues/224) in [besidka/besidka](https://github.com/besidka/besidka)
+4. ℹ️ Labeled issue [#224](https://github.com/besidka/besidka/issues/224) in [besidka/besidka](https://github.com/besidka/besidka)
+5. ❗ Opened issue [#224](https://github.com/besidka/besidka/issues/224) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
