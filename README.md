@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Labeled issue [#244](https://github.com/besidka/besidka/issues/244) in [besidka/besidka](https://github.com/besidka/besidka)
-2. ℹ️ Assigned issue [#244](https://github.com/besidka/besidka/issues/244) in [besidka/besidka](https://github.com/besidka/besidka)
-3. ❗ Opened issue [#244](https://github.com/besidka/besidka/issues/244) in [besidka/besidka](https://github.com/besidka/besidka)
-4. 🗣 Commented on [#243](https://github.com/besidka/besidka/pull/243#issuecomment-4480544527) in [besidka/besidka](https://github.com/besidka/besidka)
-5. ℹ️ Assigned PR [#243](https://github.com/besidka/besidka/pull/243) in [besidka/besidka](https://github.com/besidka/besidka)
+1. ℹ️ Assigned PR [#246](https://github.com/besidka/besidka/pull/246) in [besidka/besidka](https://github.com/besidka/besidka)
+2. ℹ️ Assigned PR [#245](https://github.com/besidka/besidka/pull/245) in [besidka/besidka](https://github.com/besidka/besidka)
+3. ℹ️ Labeled issue [#244](https://github.com/besidka/besidka/issues/244) in [besidka/besidka](https://github.com/besidka/besidka)
+4. ℹ️ Assigned issue [#244](https://github.com/besidka/besidka/issues/244) in [besidka/besidka](https://github.com/besidka/besidka)
+5. ❗ Opened issue [#244](https://github.com/besidka/besidka/issues/244) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
