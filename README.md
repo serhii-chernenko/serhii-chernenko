@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/serhii-chernenko/portfolio-blog/pull/2) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
-2. 💪 Opened PR [#2](https://github.com/serhii-chernenko/portfolio-blog/pull/2) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
-3. 🎉 Merged PR [#1](https://github.com/serhii-chernenko/portfolio-blog/pull/1) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
-4. 💪 Opened PR [#1](https://github.com/serhii-chernenko/portfolio-blog/pull/1) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
-5. ℹ️ Assigned PR [#251](https://github.com/besidka/besidka/pull/251) in [besidka/besidka](https://github.com/besidka/besidka)
+1. ℹ️ Assigned PR [#253](https://github.com/besidka/besidka/pull/253) in [besidka/besidka](https://github.com/besidka/besidka)
+2. ℹ️ Assigned PR [#252](https://github.com/besidka/besidka/pull/252) in [besidka/besidka](https://github.com/besidka/besidka)
+3. 🎉 Merged PR [#2](https://github.com/serhii-chernenko/portfolio-blog/pull/2) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
+4. 💪 Opened PR [#2](https://github.com/serhii-chernenko/portfolio-blog/pull/2) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
+5. 🎉 Merged PR [#1](https://github.com/serhii-chernenko/portfolio-blog/pull/1) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
 <!--END_SECTION:activity-->
 
 # Links
