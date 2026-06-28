@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#318](https://github.com/AprilNEA/OpenLogi/issues/318) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-2. ℹ️ Labeled issue [#318](https://github.com/AprilNEA/OpenLogi/issues/318) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
-3. 🔒 Closed issue [#235](https://github.com/besidka/besidka/issues/235) in [besidka/besidka](https://github.com/besidka/besidka)
-4. ℹ️ Assigned PR [#265](https://github.com/besidka/besidka/pull/265) in [besidka/besidka](https://github.com/besidka/besidka)
-5. ℹ️ Assigned PR [#266](https://github.com/besidka/besidka/pull/266) in [besidka/besidka](https://github.com/besidka/besidka)
+1. ℹ️ Assigned PR [#267](https://github.com/besidka/besidka/pull/267) in [besidka/besidka](https://github.com/besidka/besidka)
+2. 💪 Opened PR [#267](https://github.com/besidka/besidka/pull/267) in [besidka/besidka](https://github.com/besidka/besidka)
+3. 🔒 Closed issue [#318](https://github.com/AprilNEA/OpenLogi/issues/318) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+4. ℹ️ Labeled issue [#318](https://github.com/AprilNEA/OpenLogi/issues/318) in [AprilNEA/OpenLogi](https://github.com/AprilNEA/OpenLogi)
+5. 🔒 Closed issue [#235](https://github.com/besidka/besidka/issues/235) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
