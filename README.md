@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#270](https://github.com/besidka/besidka/pull/270) in [besidka/besidka](https://github.com/besidka/besidka)
-2. ℹ️ Assigned PR [#269](https://github.com/besidka/besidka/pull/269) in [besidka/besidka](https://github.com/besidka/besidka)
-3. 🔒 Closed issue [#244](https://github.com/besidka/besidka/issues/244) in [besidka/besidka](https://github.com/besidka/besidka)
-4. 🎉 Merged PR [#267](https://github.com/besidka/besidka/pull/267) in [besidka/besidka](https://github.com/besidka/besidka)
-5. ❗ Opened issue [#268](https://github.com/besidka/besidka/issues/268) in [besidka/besidka](https://github.com/besidka/besidka)
+1. 🗣 Commented on [#28077](https://github.com/anthropics/claude-code/issues/28077#issuecomment-4834185548) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+2. ℹ️ Assigned PR [#270](https://github.com/besidka/besidka/pull/270) in [besidka/besidka](https://github.com/besidka/besidka)
+3. ℹ️ Assigned PR [#269](https://github.com/besidka/besidka/pull/269) in [besidka/besidka](https://github.com/besidka/besidka)
+4. 🔒 Closed issue [#244](https://github.com/besidka/besidka/issues/244) in [besidka/besidka](https://github.com/besidka/besidka)
+5. 🎉 Merged PR [#267](https://github.com/besidka/besidka/pull/267) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
