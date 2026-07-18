@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#302](https://github.com/besidka/besidka/pull/302) in [besidka/besidka](https://github.com/besidka/besidka)
-2. 💪 Opened PR [#302](https://github.com/besidka/besidka/pull/302) in [besidka/besidka](https://github.com/besidka/besidka)
-3. 🎉 Merged PR [#300](https://github.com/besidka/besidka/pull/300) in [besidka/besidka](https://github.com/besidka/besidka)
-4. ℹ️ Labeled issue [#4825](https://github.com/flameshot-org/flameshot/issues/4825) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
-5. ❗ Opened issue [#4825](https://github.com/flameshot-org/flameshot/issues/4825) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
+1. ℹ️ Assigned PR [#303](https://github.com/besidka/besidka/pull/303) in [besidka/besidka](https://github.com/besidka/besidka)
+2. 💪 Opened PR [#303](https://github.com/besidka/besidka/pull/303) in [besidka/besidka](https://github.com/besidka/besidka)
+3. ℹ️ Assigned PR [#302](https://github.com/besidka/besidka/pull/302) in [besidka/besidka](https://github.com/besidka/besidka)
+4. 💪 Opened PR [#302](https://github.com/besidka/besidka/pull/302) in [besidka/besidka](https://github.com/besidka/besidka)
+5. 🎉 Merged PR [#300](https://github.com/besidka/besidka/pull/300) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
