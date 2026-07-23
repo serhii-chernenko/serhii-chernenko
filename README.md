@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#304](https://github.com/besidka/besidka/pull/304) in [besidka/besidka](https://github.com/besidka/besidka)
-2. ℹ️ Assigned PR [#309](https://github.com/besidka/besidka/pull/309) in [besidka/besidka](https://github.com/besidka/besidka)
-3. 🎉 Merged PR [#305](https://github.com/besidka/besidka/pull/305) in [besidka/besidka](https://github.com/besidka/besidka)
-4. 🚀 Published release [v0.1.1](https://github.com/serhii-chernenko/pi-inclusive-cost/releases/tag/v0.1.1) in [serhii-chernenko/pi-inclusive-cost](https://github.com/serhii-chernenko/pi-inclusive-cost)
-5. 🚀 Published release [v0.1.0](https://github.com/serhii-chernenko/pi-inclusive-cost/releases/tag/v0.1.0) in [serhii-chernenko/pi-inclusive-cost](https://github.com/serhii-chernenko/pi-inclusive-cost)
+1. 🎉 Merged PR [#310](https://github.com/besidka/besidka/pull/310) in [besidka/besidka](https://github.com/besidka/besidka)
+2. ℹ️ Assigned PR [#310](https://github.com/besidka/besidka/pull/310) in [besidka/besidka](https://github.com/besidka/besidka)
+3. 💪 Opened PR [#310](https://github.com/besidka/besidka/pull/310) in [besidka/besidka](https://github.com/besidka/besidka)
+4. 🎉 Merged PR [#304](https://github.com/besidka/besidka/pull/304) in [besidka/besidka](https://github.com/besidka/besidka)
+5. ℹ️ Assigned PR [#309](https://github.com/besidka/besidka/pull/309) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # Links
