@@ -1,11 +1,11 @@
 # 👨‍💻 Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [v0.1.1](https://github.com/serhii-chernenko/pi-inclusive-cost/releases/tag/v0.1.1) in [serhii-chernenko/pi-inclusive-cost](https://github.com/serhii-chernenko/pi-inclusive-cost)
-2. 🚀 Published release [v0.1.0](https://github.com/serhii-chernenko/pi-inclusive-cost/releases/tag/v0.1.0) in [serhii-chernenko/pi-inclusive-cost](https://github.com/serhii-chernenko/pi-inclusive-cost)
-3. 🚀 Published release [v0.1.0](https://github.com/serhii-chernenko/herdr-worktreeinclude/releases/tag/v0.1.0) in [serhii-chernenko/herdr-worktreeinclude](https://github.com/serhii-chernenko/herdr-worktreeinclude)
-4. 🗣 Commented on [#4825](https://github.com/flameshot-org/flameshot/issues/4825#issuecomment-5043012640) in [flameshot-org/flameshot](https://github.com/flameshot-org/flameshot)
-5. 🗣 Commented on [#552](https://github.com/nicobailon/pi-subagents/issues/552#issuecomment-5031326265) in [nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)
+1. 🎉 Merged PR [#304](https://github.com/besidka/besidka/pull/304) in [besidka/besidka](https://github.com/besidka/besidka)
+2. ℹ️ Assigned PR [#309](https://github.com/besidka/besidka/pull/309) in [besidka/besidka](https://github.com/besidka/besidka)
+3. 🎉 Merged PR [#305](https://github.com/besidka/besidka/pull/305) in [besidka/besidka](https://github.com/besidka/besidka)
+4. 🚀 Published release [v0.1.1](https://github.com/serhii-chernenko/pi-inclusive-cost/releases/tag/v0.1.1) in [serhii-chernenko/pi-inclusive-cost](https://github.com/serhii-chernenko/pi-inclusive-cost)
+5. 🚀 Published release [v0.1.0](https://github.com/serhii-chernenko/pi-inclusive-cost/releases/tag/v0.1.0) in [serhii-chernenko/pi-inclusive-cost](https://github.com/serhii-chernenko/pi-inclusive-cost)
 <!--END_SECTION:activity-->
 
 # Links
