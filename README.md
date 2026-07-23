@@ -184,6 +184,35 @@
                 </a>
             </td>
         </tr>
+                <tr align="center">
+            <td width="50%">
+                <strong>Adobe Certified Expert<br/>Adobe Commerce Front End Developer</strong>
+            </td>
+            <td width="50%">
+                <strong>Certified Shopify Developer</strong>
+            </td>
+        </tr>
+        <tr align="center">
+            <td width="50%">
+                <a href="https://www.credly.com/badges/d92d8921-ce19-4984-a028-54a796e2368c/linked_in_profile">
+                    <img width="900" height="900" alt="next-js-foundations-certification" src="https://github.com/user-attachments/assets/fbedd466-4a20-4e53-9ff9-aa41865f5746" />
+                </a>
+            </td>
+            <td width="50%">
+                <a href="https://www.credly.com/badges/b77ffa5b-29d5-471c-af60-de3116c8374a/linked_in_profile">
+                    <img width="900" height="900" alt="vercel-foundations-certification" src="https://github.com/user-attachments/assets/0bdc9cff-3d86-47af-9afa-c890e0257df9" />
+                </a>
+            </td>
+        </tr>
+        </tr>
+        <tr align="center">
+            <td width="50%">
+                <strong>Vercel Certified Solution Partner<br/>Next.js Foundations</strong>
+            </td>
+            <td width="50%">
+                <strong>Vercel Certified Solution Partner<br/>Vercel Foundations</strong>
+            </td>
+        </tr>
     </tbody>
 </table>
 
