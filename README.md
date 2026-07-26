@@ -66,8 +66,9 @@
                   <tbody>
                     <tr>
                       <td align="center">
-                        <a href="https://ko-fi.com/serhiichernenko" target="_blank" style="display: inline-flex; justify-content: center; width: 100">
-                          <img src="https://github.com/user-attachments/assets/4b54783f-e7fe-42b0-9003-b3f2326d69da" alt="QR code" width="200" />
+                        <a href="buymeacoffee.com/serhii.chernenko" target="_blank" style="display: inline-flex; justify-content: center; width: 100">
+                            <img width="700" height="700" alt="qr-code" src="https://github.com/user-attachments/assets/447f728b-4994-4515-829b-167c900cf96d" alt="QR code" />
+
                         </a>
                       </td>
                     </tr>
