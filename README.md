@@ -66,7 +66,7 @@
                   <tbody>
                     <tr>
                       <td align="center">
-                        <a href="buymeacoffee.com/serhii.chernenko" target="_blank" style="display: inline-flex; justify-content: center; width: 100">
+                        <a href="https://buymeacoffee.com/serhii.chernenko" target="_blank" style="display: inline-flex; justify-content: center; width: 100">
                             <img width="200" height="200" alt="qr-code" src="https://github.com/user-attachments/assets/447f728b-4994-4515-829b-167c900cf96d" />
                         </a>
                       </td>
