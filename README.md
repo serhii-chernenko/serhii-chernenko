@@ -1,4 +1,4 @@
-# 👨‍💻 Recent Activity
+# <img width="24" height="24" alt="activity" src="https://github.com/user-attachments/assets/1bb2c724-c477-4ba4-b940-f7624de3f655" /> Recent Activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#313](https://github.com/besidka/besidka/pull/313#issuecomment-5084296193) in [besidka/besidka](https://github.com/besidka/besidka)
@@ -8,13 +8,19 @@
 5. 🎉 Merged PR [#312](https://github.com/besidka/besidka/pull/312) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
-# Links
+# <img width="24" height="24" alt="link" src="https://github.com/user-attachments/assets/3c6f8cb0-02fb-4623-b214-aaa9a2532274" /> Links
 
 <table class="vertical-align: baseline">
     <thead>
         <tr>
-            <th>Follow me</td>
-            <th>Support me</td>
+            <th>
+                <img width="16" height="16" alt="footprints" src="https://github.com/user-attachments/assets/407fe335-5ca2-4989-a0fe-a4c86a536f78" />
+                 Follow me
+            </th>
+            <th>
+                <img width="16" height="16" alt="hand-coins" src="https://github.com/user-attachments/assets/28f21c03-3dc2-4478-807c-f21f56a7538a" />   
+             Support me
+         </th>
         </tr>
     </thead>
     <tbody>
@@ -81,7 +87,7 @@
     </tbody>
 </table>
 
-# My open source projects
+# <img width="24" height="24" alt="star" src="https://github.com/user-attachments/assets/0f46fde4-1553-44cb-a972-2696edbf5e48" /> My open source projects
 
 <table>
     <tbody>
@@ -113,7 +119,7 @@
     </tbody>
 </table>
 
-# Certificates
+# <img width="24" height="24" alt="graduation-cap" src="https://github.com/user-attachments/assets/030d43c7-26e8-4cbb-b5e2-ca34b160366a" /> Certificates
 
 <table>
     <thead>
@@ -216,7 +222,7 @@
     </tbody>
 </table>
 
-# Materials
+# <img width="24" height="24" alt="newspaper" src="https://github.com/user-attachments/assets/6d7d82f8-496c-46d0-bd4c-4bf1565716e1" /> Materials
 
 <table class="vertical-align: baseline">
     <thead>
