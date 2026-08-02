@@ -1,11 +1,11 @@
 # <img width="24" height="24" alt="activity" src="https://github.com/user-attachments/assets/1bb2c724-c477-4ba4-b940-f7624de3f655" /> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/serhii-chernenko/portfolio-blog/pull/6) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
-2. 💪 Opened PR [#6](https://github.com/serhii-chernenko/portfolio-blog/pull/6) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
-3. 🗣 Commented on [#5](https://github.com/serhii-chernenko/portfolio-blog/pull/5#issuecomment-5158917470) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
-4. 🎉 Merged PR [#5](https://github.com/serhii-chernenko/portfolio-blog/pull/5) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
-5. 🎉 Merged PR [#4](https://github.com/serhii-chernenko/portfolio-blog/pull/4) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
+1. 💪 Opened PR [#22](https://github.com/serhii-chernenko/portfolio-blog/pull/22) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
+2. 💪 Opened PR [#21](https://github.com/serhii-chernenko/portfolio-blog/pull/21) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
+3. 💪 Opened PR [#20](https://github.com/serhii-chernenko/portfolio-blog/pull/20) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
+4. 💪 Opened PR [#19](https://github.com/serhii-chernenko/portfolio-blog/pull/19) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
+5. 💪 Opened PR [#18](https://github.com/serhii-chernenko/portfolio-blog/pull/18) in [serhii-chernenko/portfolio-blog](https://github.com/serhii-chernenko/portfolio-blog)
 <!--END_SECTION:activity-->
 
 # <img width="24" height="24" alt="link" src="https://github.com/user-attachments/assets/3c6f8cb0-02fb-4623-b214-aaa9a2532274" /> Links
