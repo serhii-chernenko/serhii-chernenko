@@ -1,11 +1,11 @@
 # <img width="24" height="24" alt="activity" src="https://github.com/user-attachments/assets/1bb2c724-c477-4ba4-b940-f7624de3f655" /> Recent Activity
 
 <!--START_SECTION:activity-->
-1. ℹ️ Assigned PR [#334](https://github.com/besidka/besidka/pull/334) in [besidka/besidka](https://github.com/besidka/besidka)
-2. 💪 Opened PR [#334](https://github.com/besidka/besidka/pull/334) in [besidka/besidka](https://github.com/besidka/besidka)
-3. ℹ️ Assigned PR [#333](https://github.com/besidka/besidka/pull/333) in [besidka/besidka](https://github.com/besidka/besidka)
-4. 💪 Opened PR [#333](https://github.com/besidka/besidka/pull/333) in [besidka/besidka](https://github.com/besidka/besidka)
-5. ℹ️ Labeled issue [#330](https://github.com/besidka/besidka/issues/330) in [besidka/besidka](https://github.com/besidka/besidka)
+1. ❗ Opened issue [#47](https://github.com/letstri/druk/issues/47) in [letstri/druk](https://github.com/letstri/druk)
+2. 🗣 Commented on [#73365](https://github.com/anthropics/claude-code/issues/73365#issuecomment-5165407852) in [anthropics/claude-code](https://github.com/anthropics/claude-code)
+3. 🗣 Commented on [#46](https://github.com/letstri/druk/issues/46#issuecomment-5165145167) in [letstri/druk](https://github.com/letstri/druk)
+4. ❗ Opened issue [#46](https://github.com/letstri/druk/issues/46) in [letstri/druk](https://github.com/letstri/druk)
+5. ℹ️ Assigned PR [#336](https://github.com/besidka/besidka/pull/336) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # <img width="24" height="24" alt="link" src="https://github.com/user-attachments/assets/3c6f8cb0-02fb-4623-b214-aaa9a2532274" /> Links
