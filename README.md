@@ -99,7 +99,7 @@
             </td>
             <td>
                 <p>
-                    <a href="https://www.besidka.com">
+                    <a href="https://besidka.com">
                         <strong>Besidka</strong>
                     </a>
                 </p>
