@@ -93,7 +93,7 @@
     <tbody>
         <tr>
             <td align="center">
-                <a href="https://www.besidka.com">
+                <a href="https://besidka.com">
                     <img src="https://github.com/user-attachments/assets/98fa3227-7ace-4751-93e5-0435db6a4032" />
                 </a>
             </td>
