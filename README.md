@@ -1,11 +1,11 @@
 # <img width="24" height="24" alt="activity" src="https://github.com/user-attachments/assets/1bb2c724-c477-4ba4-b940-f7624de3f655" /> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [StageFit 0.2.1](https://github.com/serhii-chernenko/StageFit/releases/tag/v0.2.1) in [serhii-chernenko/StageFit](https://github.com/serhii-chernenko/StageFit)
-2. 🎉 Merged PR [#2](https://github.com/serhii-chernenko/StageFit/pull/2) in [serhii-chernenko/StageFit](https://github.com/serhii-chernenko/StageFit)
-3. 💪 Opened PR [#2](https://github.com/serhii-chernenko/StageFit/pull/2) in [serhii-chernenko/StageFit](https://github.com/serhii-chernenko/StageFit)
-4. 🚀 Published release [StageFit 0.2.0](https://github.com/serhii-chernenko/StageFit/releases/tag/v0.2.0) in [serhii-chernenko/StageFit](https://github.com/serhii-chernenko/StageFit)
-5. 🎉 Merged PR [#1](https://github.com/serhii-chernenko/StageFit/pull/1) in [serhii-chernenko/StageFit](https://github.com/serhii-chernenko/StageFit)
+1. 💪 Opened PR [#16](https://github.com/serhii-chernenko/princess/pull/16) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
+2. 💪 Opened PR [#15](https://github.com/serhii-chernenko/princess/pull/15) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
+3. 💪 Opened PR [#14](https://github.com/serhii-chernenko/princess/pull/14) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
+4. 🎉 Merged PR [#13](https://github.com/serhii-chernenko/princess/pull/13) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
+5. 💪 Opened PR [#13](https://github.com/serhii-chernenko/princess/pull/13) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
 <!--END_SECTION:activity-->
 
 # <img width="24" height="24" alt="link" src="https://github.com/user-attachments/assets/3c6f8cb0-02fb-4623-b214-aaa9a2532274" /> Links
