@@ -1,11 +1,11 @@
 # <img width="24" height="24" alt="activity" src="https://github.com/user-attachments/assets/1bb2c724-c477-4ba4-b940-f7624de3f655" /> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#16](https://github.com/serhii-chernenko/princess/pull/16) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
-2. 💪 Opened PR [#15](https://github.com/serhii-chernenko/princess/pull/15) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
-3. 💪 Opened PR [#14](https://github.com/serhii-chernenko/princess/pull/14) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
-4. 🎉 Merged PR [#13](https://github.com/serhii-chernenko/princess/pull/13) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
-5. 💪 Opened PR [#13](https://github.com/serhii-chernenko/princess/pull/13) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
+1. 🎉 Merged PR [#20](https://github.com/serhii-chernenko/princess/pull/20) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
+2. 💪 Opened PR [#20](https://github.com/serhii-chernenko/princess/pull/20) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
+3. ❌ Closed PR [#18](https://github.com/serhii-chernenko/princess/pull/18) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
+4. 🎉 Merged PR [#19](https://github.com/serhii-chernenko/princess/pull/19) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
+5. 💪 Opened PR [#19](https://github.com/serhii-chernenko/princess/pull/19) in [serhii-chernenko/princess](https://github.com/serhii-chernenko/princess)
 <!--END_SECTION:activity-->
 
 # <img width="24" height="24" alt="link" src="https://github.com/user-attachments/assets/3c6f8cb0-02fb-4623-b214-aaa9a2532274" /> Links
