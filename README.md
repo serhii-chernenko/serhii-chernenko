@@ -1,11 +1,11 @@
 # <img width="24" height="24" alt="activity" src="https://github.com/user-attachments/assets/1bb2c724-c477-4ba4-b940-f7624de3f655" /> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#393](https://github.com/besidka/besidka/pull/393) in [besidka/besidka](https://github.com/besidka/besidka)
-2. ℹ️ Assigned PR [#393](https://github.com/besidka/besidka/pull/393) in [besidka/besidka](https://github.com/besidka/besidka)
-3. 💪 Opened PR [#393](https://github.com/besidka/besidka/pull/393) in [besidka/besidka](https://github.com/besidka/besidka)
-4. 🎉 Merged PR [#392](https://github.com/besidka/besidka/pull/392) in [besidka/besidka](https://github.com/besidka/besidka)
-5. ❌ Closed PR [#391](https://github.com/besidka/besidka/pull/391) in [besidka/besidka](https://github.com/besidka/besidka)
+1. 🎉 Merged PR [#14](https://github.com/serhii-chernenko/wishlist/pull/14) in [serhii-chernenko/wishlist](https://github.com/serhii-chernenko/wishlist)
+2. 🎉 Merged PR [#15](https://github.com/serhii-chernenko/wishlist/pull/15) in [serhii-chernenko/wishlist](https://github.com/serhii-chernenko/wishlist)
+3. 💪 Opened PR [#15](https://github.com/serhii-chernenko/wishlist/pull/15) in [serhii-chernenko/wishlist](https://github.com/serhii-chernenko/wishlist)
+4. 💪 Opened PR [#14](https://github.com/serhii-chernenko/wishlist/pull/14) in [serhii-chernenko/wishlist](https://github.com/serhii-chernenko/wishlist)
+5. 🎉 Merged PR [#13](https://github.com/serhii-chernenko/wishlist/pull/13) in [serhii-chernenko/wishlist](https://github.com/serhii-chernenko/wishlist)
 <!--END_SECTION:activity-->
 
 # <img width="24" height="24" alt="link" src="https://github.com/user-attachments/assets/3c6f8cb0-02fb-4623-b214-aaa9a2532274" /> Links
