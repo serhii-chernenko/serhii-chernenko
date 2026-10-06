@@ -1,11 +1,11 @@
 # <img width="24" height="24" alt="activity" src="https://github.com/user-attachments/assets/1bb2c724-c477-4ba4-b940-f7624de3f655" /> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#400](https://github.com/besidka/besidka/pull/400) in [besidka/besidka](https://github.com/besidka/besidka)
-2. ℹ️ Assigned PR [#400](https://github.com/besidka/besidka/pull/400) in [besidka/besidka](https://github.com/besidka/besidka)
-3. 💪 Opened PR [#400](https://github.com/besidka/besidka/pull/400) in [besidka/besidka](https://github.com/besidka/besidka)
-4. 🎉 Merged PR [#16](https://github.com/serhii-chernenko/wishlist/pull/16) in [serhii-chernenko/wishlist](https://github.com/serhii-chernenko/wishlist)
-5. 💪 Opened PR [#16](https://github.com/serhii-chernenko/wishlist/pull/16) in [serhii-chernenko/wishlist](https://github.com/serhii-chernenko/wishlist)
+1. ❗ Opened issue [#402](https://github.com/besidka/besidka/issues/402) in [besidka/besidka](https://github.com/besidka/besidka)
+2. 🎉 Merged PR [#405](https://github.com/besidka/besidka/pull/405) in [besidka/besidka](https://github.com/besidka/besidka)
+3. 🎉 Merged PR [#401](https://github.com/besidka/besidka/pull/401) in [besidka/besidka](https://github.com/besidka/besidka)
+4. ℹ️ Assigned PR [#405](https://github.com/besidka/besidka/pull/405) in [besidka/besidka](https://github.com/besidka/besidka)
+5. 💪 Opened PR [#405](https://github.com/besidka/besidka/pull/405) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # <img width="24" height="24" alt="link" src="https://github.com/user-attachments/assets/3c6f8cb0-02fb-4623-b214-aaa9a2532274" /> Links
