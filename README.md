@@ -1,11 +1,11 @@
 # <img width="24" height="24" alt="activity" src="https://github.com/user-attachments/assets/1bb2c724-c477-4ba4-b940-f7624de3f655" /> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#426](https://github.com/besidka/besidka/pull/426) in [besidka/besidka](https://github.com/besidka/besidka)
-2. 💪 Opened PR [#426](https://github.com/besidka/besidka/pull/426) in [besidka/besidka](https://github.com/besidka/besidka)
-3. 🎉 Merged PR [#425](https://github.com/besidka/besidka/pull/425) in [besidka/besidka](https://github.com/besidka/besidka)
-4. 💪 Opened PR [#425](https://github.com/besidka/besidka/pull/425) in [besidka/besidka](https://github.com/besidka/besidka)
-5. 🎉 Merged PR [#424](https://github.com/besidka/besidka/pull/424) in [besidka/besidka](https://github.com/besidka/besidka)
+1. 💪 Opened PR [#429](https://github.com/besidka/besidka/pull/429) in [besidka/besidka](https://github.com/besidka/besidka)
+2. 💪 Opened PR [#428](https://github.com/besidka/besidka/pull/428) in [besidka/besidka](https://github.com/besidka/besidka)
+3. 💪 Opened PR [#25](https://github.com/yatsyk/awesome-byok-apps/pull/25) in [yatsyk/awesome-byok-apps](https://github.com/yatsyk/awesome-byok-apps)
+4. 🎉 Merged PR [#427](https://github.com/besidka/besidka/pull/427) in [besidka/besidka](https://github.com/besidka/besidka)
+5. 💪 Opened PR [#427](https://github.com/besidka/besidka/pull/427) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # <img width="24" height="24" alt="link" src="https://github.com/user-attachments/assets/3c6f8cb0-02fb-4623-b214-aaa9a2532274" /> Links
