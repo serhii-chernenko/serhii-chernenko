@@ -1,11 +1,11 @@
 # <img width="24" height="24" alt="activity" src="https://github.com/user-attachments/assets/1bb2c724-c477-4ba4-b940-f7624de3f655" /> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#486](https://github.com/besidka/besidka/pull/486) in [besidka/besidka](https://github.com/besidka/besidka)
-2. 💪 Opened PR [#6](https://github.com/serhii-chernenko/claude-desktop-profiles/pull/6) in [serhii-chernenko/claude-desktop-profiles](https://github.com/serhii-chernenko/claude-desktop-profiles)
-3. 🎉 Merged PR [#485](https://github.com/besidka/besidka/pull/485) in [besidka/besidka](https://github.com/besidka/besidka)
-4. 💪 Opened PR [#485](https://github.com/besidka/besidka/pull/485) in [besidka/besidka](https://github.com/besidka/besidka)
-5. 💪 Opened PR [#484](https://github.com/besidka/besidka/pull/484) in [besidka/besidka](https://github.com/besidka/besidka)
+1. 🎉 Merged PR [#486](https://github.com/besidka/besidka/pull/486) in [besidka/besidka](https://github.com/besidka/besidka)
+2. ❗ Opened issue [#2681](https://github.com/cloudflare/agents/issues/2681) in [cloudflare/agents](https://github.com/cloudflare/agents)
+3. 🎉 Merged PR [#6](https://github.com/serhii-chernenko/claude-desktop-profiles/pull/6) in [serhii-chernenko/claude-desktop-profiles](https://github.com/serhii-chernenko/claude-desktop-profiles)
+4. 💪 Opened PR [#488](https://github.com/besidka/besidka/pull/488) in [besidka/besidka](https://github.com/besidka/besidka)
+5. ❗ Opened issue [#2682](https://github.com/cloudflare/agents/issues/2682) in [cloudflare/agents](https://github.com/cloudflare/agents)
 <!--END_SECTION:activity-->
 
 # <img width="24" height="24" alt="link" src="https://github.com/user-attachments/assets/3c6f8cb0-02fb-4623-b214-aaa9a2532274" /> Links
