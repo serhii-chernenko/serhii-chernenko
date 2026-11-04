@@ -1,11 +1,11 @@
 # <img width="24" height="24" alt="activity" src="https://github.com/user-attachments/assets/1bb2c724-c477-4ba4-b940-f7624de3f655" /> Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#625](https://github.com/besidka/besidka/pull/625) in [besidka/besidka](https://github.com/besidka/besidka)
-2. 💪 Opened PR [#625](https://github.com/besidka/besidka/pull/625) in [besidka/besidka](https://github.com/besidka/besidka)
-3. 🎉 Merged PR [#624](https://github.com/besidka/besidka/pull/624) in [besidka/besidka](https://github.com/besidka/besidka)
-4. 💪 Opened PR [#624](https://github.com/besidka/besidka/pull/624) in [besidka/besidka](https://github.com/besidka/besidka)
-5. 💪 Opened PR [#623](https://github.com/besidka/besidka/pull/623) in [besidka/besidka](https://github.com/besidka/besidka)
+1. 🚀 Published release [Claude Profiles 0.1.8](https://github.com/serhii-chernenko/claude-desktop-profiles/releases/tag/v0.1.8) in [serhii-chernenko/claude-desktop-profiles](https://github.com/serhii-chernenko/claude-desktop-profiles)
+2. 🎉 Merged PR [#9](https://github.com/serhii-chernenko/claude-desktop-profiles/pull/9) in [serhii-chernenko/claude-desktop-profiles](https://github.com/serhii-chernenko/claude-desktop-profiles)
+3. 🎉 Merged PR [#623](https://github.com/besidka/besidka/pull/623) in [besidka/besidka](https://github.com/besidka/besidka)
+4. 💪 Opened PR [#9](https://github.com/serhii-chernenko/claude-desktop-profiles/pull/9) in [serhii-chernenko/claude-desktop-profiles](https://github.com/serhii-chernenko/claude-desktop-profiles)
+5. 🎉 Merged PR [#630](https://github.com/besidka/besidka/pull/630) in [besidka/besidka](https://github.com/besidka/besidka)
 <!--END_SECTION:activity-->
 
 # <img width="24" height="24" alt="link" src="https://github.com/user-attachments/assets/3c6f8cb0-02fb-4623-b214-aaa9a2532274" /> Links
